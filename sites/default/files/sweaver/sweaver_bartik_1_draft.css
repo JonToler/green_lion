@@ -1,0 +1,21 @@
+a span {
+  padding-left: 76px;
+  border-top-width: 5px;
+  padding-top: 0px;
+  font-family: 'Arial Black',Sans-Serif;
+}
+
+.section #name-and-slogan {
+  background-color: #28705e;
+}
+
+.section a {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 36px;
+}
+
+#main-menu ul {
+  background-color: #2b7d0f;
+}
+
